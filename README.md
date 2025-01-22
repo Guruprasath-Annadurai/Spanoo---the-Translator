@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spanoo - The Language Translator
 
 A modern, responsive language translation web application built with React, TypeScript, and Tailwind CSS. This application provides real-time translation capabilities with a beautiful user interface.
@@ -50,3 +51,6 @@ MIT License
 ## Author
 
 [Your Name]
+=======
+# Spanoo---the-Translator
+>>>>>>> 2da9f61161a2401beafc308be9fbe5ce9693fc6f
